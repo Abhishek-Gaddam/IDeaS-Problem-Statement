@@ -20,3 +20,8 @@ Miami Downtown has 3-star rating.
 Miami Midtown has 5-star rating.
  
 With all the above requirement we would like to create a program which gives us cheapest hotel.
+
+To directly go to the code click here: 
+https://github.com/Abhishek-Gaddam/IDeaS-Problem-Statement/blob/main/Hotel%20Problem/src/hotel/CheapestHotelFinder.java
+OR navigate to this path:
+Hotel Problem/src/hotel/CheapestHotelFinder.java
